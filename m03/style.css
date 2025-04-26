@@ -1,11 +1,9 @@
-/* General body styling */
 body {
     font-family: Helvetica, Arial, sans-serif;
     color: #665544;
     padding: 0 15% 0 15%;  
 }
 
-/* Heading styling */
 h1 {
     text-align: center;
     color: blue;
@@ -13,18 +11,16 @@ h1 {
     font-size: 400%;  
 }
 
-/* Paragraph styling */
 p {
     font-family: 'DancingScriptRegular';  
     font-weight: normal;
     font-style: normal;
     font-size: 200%;  
 }
-/* Styling for <i> */
+
 i {
     color: darkgreen;  
 }
-
 
 a, a:hover, a:visited {
     color: #665544;  
