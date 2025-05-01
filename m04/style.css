@@ -1,1 +1,62 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
 
+body {
+	width: 90%;
+	margin: 0 auto;
+	background-image: url('https://cdn.dribbble.com/userupload/11045346/file/original-b909fb7d4272c6ba4e1db884012f6d85.jpg?resize=752x&vertical=center');
+	background-size: cover;}
+
+#content {
+	overflow: auto;}
+
+#nav, #feature, #footer {
+	margin: 1%;}
+
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;}
+
+.column3 {
+	margin-right: 0%;}
+
+li {
+	display: inline;
+	padding: 0.5em;}
+
+#nav {
+	background-color: #a8e6cf;
+	padding: 0.5em 0;}
+
+#feature {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #dcedc1;
+	background-image: url('https://d2zp5xs5cp8zlg.cloudfront.net/image-88409-800.jpg');
+	background-size: contain;
+	background-position: center;}
+
+.article.column1 {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #ffd3b6;}
+
+.article.column2 {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #ffaaa5;}
+
+.article.column3 {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #ff8b94;}
+
+#footer {
+	background-color: #98d8c8;
+	padding: 0.5em 0;}
+
+h1 {
+	font-family: 'DancingScriptRegular';}
