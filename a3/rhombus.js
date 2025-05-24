@@ -1,6 +1,6 @@
 //Creating the rhombus in one function, this way we can have every color alternating throughout the diamond, not just in each quarter of it.
 function createRhombus(pHeight, pColorEven, pColorOdd, pSymbol) {
-  const counter = { value: 0 };
+  const counter = { value: 0 }; //for keeping track of odds and evens
   let rhombusHTML = "";
   
   // Upper half of rhombus
