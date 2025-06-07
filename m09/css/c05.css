@@ -142,3 +142,7 @@ p {
         background-size: 72px 72px;
     }
 }
+
+#message:empty {
+  display: none;
+}
