@@ -341,3 +341,4 @@ function zipcode() {
     // 5) Return status
     return validZip;
 }
+
