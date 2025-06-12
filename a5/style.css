@@ -1,1 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
 
+.carousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#slideshow {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border: 2px solid #ccc;
+}
+
+#caption {
+  font-size: 1.1em;
+  margin-top: 10px;
+  width: 400px;
+}
+
+.controls {
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#timer {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 18px;
+  background: #eee;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 30px;
+}
