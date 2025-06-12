@@ -11,7 +11,7 @@ var captionImages = [
   "A pod of dolphins chilling under crystal-clear tropical waters.",
   "A dolphin swimming in a coral reef with turtle swimming nearby.",
   "Two dolphins swimming side-by-side in deep ocean blue.",
-  "A playful dolphin do tricks while performing at a marine show."
+  "A playful dolphin doing tricks while performing at a marine show."
 ];
 
 var altText = [
